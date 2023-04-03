@@ -3387,7 +3387,11 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 1,
-    "_bakeToReflectionProbe": false
+    "_bakeToReflectionProbe": false,
+    "_probeCubemap": {
+      "__uuid__": "764da62f-1ea2-420b-9758-cdc0b8f92585@b47c0",
+      "__expectedType__": "cc.TextureCube"
+    }
   },
   {
     "__type__": "cc.Node",
@@ -3489,7 +3493,11 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 1,
-    "_bakeToReflectionProbe": false
+    "_bakeToReflectionProbe": false,
+    "_probeCubemap": {
+      "__uuid__": "764da62f-1ea2-420b-9758-cdc0b8f92585@b47c0",
+      "__expectedType__": "cc.TextureCube"
+    }
   },
   {
     "__type__": "cc.Node",
@@ -3591,7 +3599,11 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 1,
-    "_bakeToReflectionProbe": false
+    "_bakeToReflectionProbe": false,
+    "_probeCubemap": {
+      "__uuid__": "764da62f-1ea2-420b-9758-cdc0b8f92585@b47c0",
+      "__expectedType__": "cc.TextureCube"
+    }
   },
   {
     "__type__": "cc.Node",
@@ -3693,7 +3705,11 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 1,
-    "_bakeToReflectionProbe": false
+    "_bakeToReflectionProbe": false,
+    "_probeCubemap": {
+      "__uuid__": "764da62f-1ea2-420b-9758-cdc0b8f92585@b47c0",
+      "__expectedType__": "cc.TextureCube"
+    }
   },
   {
     "__type__": "cc.Animation",
@@ -4304,7 +4320,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@ec9df",
+        "__uuid__": "97c703a9-bf08-4b64-b2ac-fc16dd4c952f",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -4342,7 +4358,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -4399,7 +4416,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@351c5",
+        "__uuid__": "fbb148c9-a620-4eee-aa5d-df9df6e4bd14",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -4437,7 +4454,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -4494,7 +4512,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@57978",
+        "__uuid__": "afed753a-ee85-4b3e-8724-d260759bed6f",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -4532,7 +4550,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -4589,7 +4608,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@38d7d",
+        "__uuid__": "964745fe-f8b2-44f9-a0cb-d3642453703e",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -4627,7 +4646,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -4684,7 +4704,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@7914b",
+        "__uuid__": "6ad14316-0b17-45c0-bd4e-a4ab171b9711",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -4722,7 +4742,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -4779,7 +4800,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@8e0ed",
+        "__uuid__": "757f7076-49e8-475c-9663-28de03cc7804",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -4817,7 +4838,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -4874,7 +4896,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@95db3",
+        "__uuid__": "9502cdc5-a422-47a1-9b5a-47ac8dcc4540",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -4912,7 +4934,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -4969,7 +4992,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@895a8",
+        "__uuid__": "e7f60a5c-fa8b-433e-ad37-e640dce21189",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -5007,7 +5030,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -5064,7 +5088,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@8e0ed",
+        "__uuid__": "757f7076-49e8-475c-9663-28de03cc7804",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -5102,7 +5126,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -5159,7 +5184,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@7971c",
+        "__uuid__": "c83923ae-2368-4a6a-a564-0771ca07590b",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -5197,7 +5222,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -5254,7 +5280,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@95db3",
+        "__uuid__": "9502cdc5-a422-47a1-9b5a-47ac8dcc4540",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -5292,7 +5318,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -5349,7 +5376,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@8e0ed",
+        "__uuid__": "757f7076-49e8-475c-9663-28de03cc7804",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -5387,7 +5414,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -5444,7 +5472,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@77ac1",
+        "__uuid__": "2feee5f1-3507-46b3-a11c-df14fe218a23",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -5482,7 +5510,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -5539,7 +5568,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@7914b",
+        "__uuid__": "6ad14316-0b17-45c0-bd4e-a4ab171b9711",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -5577,7 +5606,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -5634,7 +5664,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@95db3",
+        "__uuid__": "9502cdc5-a422-47a1-9b5a-47ac8dcc4540",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -5672,7 +5702,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -5729,7 +5760,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@7914b",
+        "__uuid__": "6ad14316-0b17-45c0-bd4e-a4ab171b9711",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -5767,7 +5798,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -5824,7 +5856,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@8e0ed",
+        "__uuid__": "757f7076-49e8-475c-9663-28de03cc7804",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -5862,7 +5894,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -5919,7 +5952,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@95db3",
+        "__uuid__": "9502cdc5-a422-47a1-9b5a-47ac8dcc4540",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -5957,7 +5990,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -6014,7 +6048,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@8e0ed",
+        "__uuid__": "757f7076-49e8-475c-9663-28de03cc7804",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -6052,7 +6086,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -6109,7 +6144,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@95db3",
+        "__uuid__": "9502cdc5-a422-47a1-9b5a-47ac8dcc4540",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -6147,7 +6182,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -6204,7 +6240,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@8e0ed",
+        "__uuid__": "757f7076-49e8-475c-9663-28de03cc7804",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -6242,7 +6278,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -6299,7 +6336,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@95db3",
+        "__uuid__": "9502cdc5-a422-47a1-9b5a-47ac8dcc4540",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -6337,7 +6374,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -6394,7 +6432,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@8e0ed",
+        "__uuid__": "757f7076-49e8-475c-9663-28de03cc7804",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -6432,7 +6470,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -6489,7 +6528,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@95db3",
+        "__uuid__": "9502cdc5-a422-47a1-9b5a-47ac8dcc4540",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -6527,7 +6566,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -6584,7 +6624,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@8e0ed",
+        "__uuid__": "757f7076-49e8-475c-9663-28de03cc7804",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -6622,7 +6662,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -6679,7 +6720,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@95db3",
+        "__uuid__": "9502cdc5-a422-47a1-9b5a-47ac8dcc4540",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -6717,7 +6758,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -6774,7 +6816,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@8e0ed",
+        "__uuid__": "757f7076-49e8-475c-9663-28de03cc7804",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -6812,7 +6854,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -6869,7 +6912,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@95db3",
+        "__uuid__": "9502cdc5-a422-47a1-9b5a-47ac8dcc4540",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -6907,7 +6950,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -6964,7 +7008,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@8e0ed",
+        "__uuid__": "757f7076-49e8-475c-9663-28de03cc7804",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -7002,7 +7046,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -7059,7 +7104,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@95db3",
+        "__uuid__": "9502cdc5-a422-47a1-9b5a-47ac8dcc4540",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -7097,7 +7142,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -7154,7 +7200,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@8e0ed",
+        "__uuid__": "757f7076-49e8-475c-9663-28de03cc7804",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -7192,7 +7238,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -7249,7 +7296,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@95db3",
+        "__uuid__": "9502cdc5-a422-47a1-9b5a-47ac8dcc4540",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -7287,7 +7334,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -7344,7 +7392,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@8e0ed",
+        "__uuid__": "757f7076-49e8-475c-9663-28de03cc7804",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -7382,7 +7430,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -7439,7 +7488,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@95db3",
+        "__uuid__": "9502cdc5-a422-47a1-9b5a-47ac8dcc4540",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -7477,7 +7526,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -7534,7 +7584,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@8e0ed",
+        "__uuid__": "757f7076-49e8-475c-9663-28de03cc7804",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -7572,7 +7622,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -7629,7 +7680,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@7914b",
+        "__uuid__": "6ad14316-0b17-45c0-bd4e-a4ab171b9711",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -7667,7 +7718,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -7724,7 +7776,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@8e0ed",
+        "__uuid__": "757f7076-49e8-475c-9663-28de03cc7804",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -7762,7 +7814,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -7819,7 +7872,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@7914b",
+        "__uuid__": "6ad14316-0b17-45c0-bd4e-a4ab171b9711",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -7857,7 +7910,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -7914,7 +7968,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@b10b8",
+        "__uuid__": "92f52cca-3ee5-4794-95f0-747b1e32ea0e",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -7952,7 +8006,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -8009,7 +8064,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@7914b",
+        "__uuid__": "6ad14316-0b17-45c0-bd4e-a4ab171b9711",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -8047,7 +8102,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -8104,7 +8160,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@b10b8",
+        "__uuid__": "92f52cca-3ee5-4794-95f0-747b1e32ea0e",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -8142,7 +8198,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -8199,7 +8256,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@7914b",
+        "__uuid__": "6ad14316-0b17-45c0-bd4e-a4ab171b9711",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -8237,7 +8294,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -8294,7 +8352,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@b10b8",
+        "__uuid__": "92f52cca-3ee5-4794-95f0-747b1e32ea0e",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -8332,7 +8390,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -8389,7 +8448,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@7914b",
+        "__uuid__": "6ad14316-0b17-45c0-bd4e-a4ab171b9711",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -8427,7 +8486,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -8484,7 +8544,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@77ac1",
+        "__uuid__": "2feee5f1-3507-46b3-a11c-df14fe218a23",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -8522,7 +8582,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -8579,7 +8640,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@7914b",
+        "__uuid__": "6ad14316-0b17-45c0-bd4e-a4ab171b9711",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -8617,7 +8678,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -8674,7 +8736,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@895a8",
+        "__uuid__": "e7f60a5c-fa8b-433e-ad37-e640dce21189",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -8712,7 +8774,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -8769,7 +8832,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@8e0ed",
+        "__uuid__": "757f7076-49e8-475c-9663-28de03cc7804",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -8807,7 +8870,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -8864,7 +8928,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@73297",
+        "__uuid__": "fd07705b-4bc1-4780-bd38-62f2db3b2a76",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -8902,7 +8966,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -8959,7 +9024,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@0d96b",
+        "__uuid__": "b7e561c4-7cec-4dc1-ba69-cec9cb7173bb",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -8997,7 +9062,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -9054,7 +9120,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@7914b",
+        "__uuid__": "6ad14316-0b17-45c0-bd4e-a4ab171b9711",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -9092,7 +9158,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -9149,7 +9216,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@86895",
+        "__uuid__": "ca00b85d-e346-42ca-81d4-3480fe0d7d15",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -9187,7 +9254,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -9244,7 +9312,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@ec9df",
+        "__uuid__": "97c703a9-bf08-4b64-b2ac-fc16dd4c952f",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -9282,7 +9350,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -9339,7 +9408,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@76360",
+        "__uuid__": "4a4277ae-67f5-4646-b202-7f87a2ec1a10",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -9377,7 +9446,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -9434,7 +9504,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@7e175",
+        "__uuid__": "930bfa4e-16fa-4def-9381-19f5049f44fa",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -9472,7 +9542,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -9529,7 +9600,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@41aaf",
+        "__uuid__": "a14a0708-93c3-4473-96dd-8d57be0c27ac",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -9567,7 +9638,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -9624,7 +9696,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@76360",
+        "__uuid__": "4a4277ae-67f5-4646-b202-7f87a2ec1a10",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -9662,7 +9734,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -9719,7 +9792,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@7e175",
+        "__uuid__": "930bfa4e-16fa-4def-9381-19f5049f44fa",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -9757,7 +9830,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -9814,7 +9888,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@76360",
+        "__uuid__": "4a4277ae-67f5-4646-b202-7f87a2ec1a10",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -9852,7 +9926,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -9909,7 +9984,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@41aaf",
+        "__uuid__": "a14a0708-93c3-4473-96dd-8d57be0c27ac",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -9947,7 +10022,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -10004,7 +10080,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@7e175",
+        "__uuid__": "930bfa4e-16fa-4def-9381-19f5049f44fa",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -10042,7 +10118,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -10099,7 +10176,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@86895",
+        "__uuid__": "ca00b85d-e346-42ca-81d4-3480fe0d7d15",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -10137,7 +10214,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -10194,7 +10272,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@83226",
+        "__uuid__": "c5fe31b8-9200-4855-b4ad-3ec3be481ebd",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -10232,7 +10310,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -10289,7 +10368,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@16f2b",
+        "__uuid__": "34a51790-eb52-4771-b5df-e6f08e465d0e",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -10327,7 +10406,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -10384,7 +10464,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@584ff",
+        "__uuid__": "0161df70-6c16-45cc-a515-d3d8ed2e097a",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -10422,7 +10502,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -10479,7 +10560,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@16f2b",
+        "__uuid__": "34a51790-eb52-4771-b5df-e6f08e465d0e",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -10517,7 +10598,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -10574,7 +10656,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@584ff",
+        "__uuid__": "0161df70-6c16-45cc-a515-d3d8ed2e097a",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -10612,7 +10694,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -10669,7 +10752,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@16f2b",
+        "__uuid__": "34a51790-eb52-4771-b5df-e6f08e465d0e",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -10707,7 +10790,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -10764,7 +10848,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@83226",
+        "__uuid__": "c5fe31b8-9200-4855-b4ad-3ec3be481ebd",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -10802,7 +10886,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -10859,7 +10944,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@584ff",
+        "__uuid__": "0161df70-6c16-45cc-a515-d3d8ed2e097a",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -10897,7 +10982,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -10954,7 +11040,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@16f2b",
+        "__uuid__": "34a51790-eb52-4771-b5df-e6f08e465d0e",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -10992,7 +11078,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -11049,7 +11136,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@83226",
+        "__uuid__": "c5fe31b8-9200-4855-b4ad-3ec3be481ebd",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -11087,7 +11174,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -11144,7 +11232,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@9b67e",
+        "__uuid__": "3058d9d9-d3e6-4084-86ae-b9e98941de43",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -11182,7 +11270,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -11239,7 +11328,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@9b67e",
+        "__uuid__": "3058d9d9-d3e6-4084-86ae-b9e98941de43",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -11277,7 +11366,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -11334,7 +11424,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@7eb8e",
+        "__uuid__": "10ed82a3-2768-477e-bd99-529f27c2045e",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -11372,7 +11462,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -11429,7 +11520,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@9b67e",
+        "__uuid__": "3058d9d9-d3e6-4084-86ae-b9e98941de43",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -11467,7 +11558,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -11524,7 +11616,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@7eb8e",
+        "__uuid__": "10ed82a3-2768-477e-bd99-529f27c2045e",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -11562,7 +11654,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -11619,7 +11712,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@351c5",
+        "__uuid__": "fbb148c9-a620-4eee-aa5d-df9df6e4bd14",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -11657,7 +11750,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -11714,7 +11808,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@57978",
+        "__uuid__": "afed753a-ee85-4b3e-8724-d260759bed6f",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -11752,7 +11846,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -11809,7 +11904,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@351c5",
+        "__uuid__": "fbb148c9-a620-4eee-aa5d-df9df6e4bd14",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -11847,7 +11942,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -11904,7 +12000,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@57978",
+        "__uuid__": "afed753a-ee85-4b3e-8724-d260759bed6f",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -11942,7 +12038,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -11999,7 +12096,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@351c5",
+        "__uuid__": "fbb148c9-a620-4eee-aa5d-df9df6e4bd14",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -12037,7 +12134,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -12094,7 +12192,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@57978",
+        "__uuid__": "afed753a-ee85-4b3e-8724-d260759bed6f",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -12132,7 +12230,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -12189,7 +12288,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@351c5",
+        "__uuid__": "fbb148c9-a620-4eee-aa5d-df9df6e4bd14",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -12227,7 +12326,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -12284,7 +12384,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@57978",
+        "__uuid__": "afed753a-ee85-4b3e-8724-d260759bed6f",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -12322,7 +12422,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -12379,7 +12480,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@351c5",
+        "__uuid__": "fbb148c9-a620-4eee-aa5d-df9df6e4bd14",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -12417,7 +12518,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -12474,7 +12576,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@57978",
+        "__uuid__": "afed753a-ee85-4b3e-8724-d260759bed6f",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -12512,7 +12614,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -12569,7 +12672,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@351c5",
+        "__uuid__": "fbb148c9-a620-4eee-aa5d-df9df6e4bd14",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -12607,7 +12710,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -12664,7 +12768,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@57978",
+        "__uuid__": "afed753a-ee85-4b3e-8724-d260759bed6f",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -12702,7 +12806,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -12759,7 +12864,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@351c5",
+        "__uuid__": "fbb148c9-a620-4eee-aa5d-df9df6e4bd14",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -12797,7 +12902,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -12854,7 +12960,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@57978",
+        "__uuid__": "afed753a-ee85-4b3e-8724-d260759bed6f",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -12892,7 +12998,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -12949,7 +13056,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@83cfa",
+        "__uuid__": "ad7691f6-a71c-4c18-9697-2b4b874be2fd",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -12987,7 +13094,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -13044,7 +13152,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@07f3d",
+        "__uuid__": "a8b245df-1786-4026-87fe-52b85b9c3c8a",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -13082,7 +13190,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -13139,7 +13248,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@38d7d",
+        "__uuid__": "964745fe-f8b2-44f9-a0cb-d3642453703e",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -13177,7 +13286,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -13234,7 +13344,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@07f3d",
+        "__uuid__": "a8b245df-1786-4026-87fe-52b85b9c3c8a",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -13272,7 +13382,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -13329,7 +13440,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@38d7d",
+        "__uuid__": "964745fe-f8b2-44f9-a0cb-d3642453703e",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -13367,7 +13478,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -13462,7 +13574,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -13519,7 +13632,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@bc50a",
+        "__uuid__": "4a7bf458-9420-4c2b-874c-9c49a3ef210f",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -13557,7 +13670,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -13614,7 +13728,7 @@
     "__prefab": null,
     "_materials": [
       {
-        "__uuid__": "6c6e8b79-828d-4a90-9d1e-26d92e9db900@7914b",
+        "__uuid__": "6ad14316-0b17-45c0-bd4e-a4ab171b9711",
         "__expectedType__": "cc.Material"
       }
     ],
@@ -13652,7 +13766,8 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 0,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": null
   },
   {
     "__type__": "cc.Node",
@@ -13748,7 +13863,11 @@
     "_useLightProbe": false,
     "_bakeToLightProbe": true,
     "_reflectionProbeType": 1,
-    "_bakeToReflectionProbe": true
+    "_bakeToReflectionProbe": true,
+    "_probeCubemap": {
+      "__uuid__": "764da62f-1ea2-420b-9758-cdc0b8f92585@b47c0",
+      "__expectedType__": "cc.TextureCube"
+    }
   },
   {
     "__type__": "cc.Node",
